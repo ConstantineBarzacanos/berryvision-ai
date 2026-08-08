@@ -1,5 +1,5 @@
 # berryvision-ai
-Agricultural Computer Vision &amp; AI Dataset Acquisition Platform for any agricultural product
+Agricultural Computer Vision &amp; AI Dataset Acquisition Platform for any Agricultural Product
 ### Overview
 
 **BerryVision AI** is an end-to-end agricultural computer vision and edge-AI platform designed to transform field imagery into structured, model-ready datasets.
