@@ -29,7 +29,7 @@ The architecture is intentionally modular, separating **camera hardware, acquisi
 
 **Field Survey Metadata for downstream AI Processing**
 
-<img width="1319" height="743" alt="Screen Shot 2026-08-08 at 3 14 55 PM" src="https://github.com/user-attachments/assets/4d77a0f7-7846-4d13-bb72-54f42f4fd15f" />
+<img width="1306" height="768" alt="Screen Shot 2026-08-08 at 6 58 56 PM" src="https://github.com/user-attachments/assets/4c14f8e9-e508-4fab-a63a-8e10bf3ed33b" />
 
 **Project Status**
 BerryVision AI is an independently developed R&D prototype and demonstration platform for agricultural computer vision and edge-AI workflows.
