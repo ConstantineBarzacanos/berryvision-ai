@@ -1,3 +1,40 @@
+# Overall Software Architecture Structure 
+
+1. Camera Hardware Abstraction
+   - architectural purpose
+   - AbstractCamera code excerpt
+
+2. Camera Factory / Dependency Injection
+   - architectural purpose
+   - factory code excerpt
+
+3. Mobile / WebRTC Acquisition
+   - architectural purpose
+   - representative implementation excerpt
+
+4. NVIDIA Jetson Edge Camera
+   - architectural purpose
+   - representative implementation excerpt
+
+5. Acquisition Session Lifecycle
+   - ACTIVE → PAUSED → RESUMED → COMPLETED
+   - representative code
+
+6. Metadata & AI Data Contract
+   - GPS
+   - image/video metadata
+   - detections / bounding boxes
+   - maturity / density
+   - representative schema
+
+7. Dataset / MLOps Boundary
+   - acquisition → dataset → YOLO / COCO → training
+   - representative export code
+
+8. Architecture Notes
+   - what is intentionally omitted
+   - complete operational repository remains private
+
 # Representative Implementation Samples
 
 These selected code samples illustrate architectural patterns implemented in the **BerryVision AI** personal R&D platform.
